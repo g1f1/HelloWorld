@@ -1,0 +1,6 @@
+"""Hello world in Cobra"""
+
+class Hello
+
+    def main
+        print 'Hello, world.'
