@@ -1,0 +1,4 @@
+/* Hello World in CSS - Cascading Style Sheets */
+body:before {
+    content: "Hello World";
+}
